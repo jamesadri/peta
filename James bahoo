@@ -161,4 +161,24 @@
             <DIv class="COL">
                 <DIV class="CARD CARD1">
                     <H5>ETHNICITY</H5>
-                    <P>Ethnicity, relates to culturally contingent features, characterizes all human groups. Refers to a sense of identity in a group that shares common language, cultural traits (values, beliefs, religi
+                    <P>Ethnicity, relates to culturally contingent features, characterizes all human groups. Refers to a sense of identity in a group that shares common language, cultural traits (values, beliefs, religion, food habits.)</P>
+                </DIV>
+                <DIV class="CARD CARD2">
+                    <H5>ETHNOCENTRISM</H5>
+                    <P>In social science and anthropology, as well as in everyday English language, the term "ethnocentrism" refers to the practice of using one's own culture or ethnicity as a frame of reference to evaluate other cultures</P>
+                </DIV>
+                <DIV class="CARD CARD3">
+                    <H5>RACE</H5>
+                    <P>Race is a categorization of humans based on shared physical or social qualities into groups generally viewed as distinct within a given society. The term came into common usage during the 16th century, </P>
+                </DIV>
+                <DIV class="CARD CARD4">
+                    <H5>DISCRIMINATION</H5>
+                    <P>Discrimination is making unfair distinctions between people based on the groups, classes, or other categories to which they belong or are perceived to belong, such as race, gender, age, religion, or sexual orientation.</P>
+                </DIV>
+            </DIv>
+        </DIv>
+    </div>
+
+</body>
+</html>
+
